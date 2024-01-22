@@ -1,5 +1,7 @@
-Pandas-challenge 
-Before starting:
+# Pandas-challenge 
+
+# Before starting:
+
 Create a new repository for this project called pandas-challenge. Do not add this homework to an existing repository.
 Clone the new repository to your computer.
 Inside your local Git repository, create a folder for this homework assignment and name it PyCitySchools.
